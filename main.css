@@ -1,0 +1,55 @@
+
+.new{
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.text1{
+    text-align: center;
+}
+.row{
+    text-align: center;
+}
+.row{
+    display:flex;
+}
+.new4{
+    text-align: center;
+}
+.new5{
+    text-align: center;
+}
+div{
+    border: none;
+}
+.name{
+    text-align: center;
+    margin-top: 5000px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: black;
+  }
+.name:hover{
+  color: red;
+}
+.col-6{
+    background-color: white;
+}  
+.yeni{
+    display: flex;
+ 
+}
+
+.yeni1{
+    justify-content: column;
+    justify-content: start;
+}
+div p.card-text{
+    text-align: justify;
+    padding: 0;
+}
+.yard{
+    text-align: justify;
+    padding: 0;
+}
